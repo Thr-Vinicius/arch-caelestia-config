@@ -22,4 +22,7 @@ Atualizar o sistema:
 sudo pacman -Syu
 yay -Syu
 flatpak update
+```
+## Desktop
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c5d58ba1-38a5-4ab3-9a71-06b908b0a43c" />
