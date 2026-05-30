@@ -1,0 +1,3 @@
+dev.vencord.Vesktop
+io.mrarm.mcpelauncher
+org.vinegarhq.Sober
