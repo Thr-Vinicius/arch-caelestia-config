@@ -35,3 +35,5 @@ Mantenho backups locais das configurações usando o script:
 
 ```bash
 backup-zen
+```
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ac5f42a6-24d5-4106-b417-ce0087134294" />
