@@ -56,8 +56,3 @@ As configurações podem ser encontradas em:
 dotfiles/.config/kitty
 ```
 <img width="1832" height="1171" alt="image" src="https://github.com/user-attachments/assets/5d6f9afd-5f2a-43c1-9532-30e9d0e86764" />
-
-Kitty
-├── Tema gerado automaticamente
-├── Integração com a paleta do Caelestia
-└── Atualização via script
