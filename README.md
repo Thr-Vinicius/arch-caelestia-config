@@ -37,3 +37,27 @@ Mantenho backups locais das configurações usando o script:
 backup-zen
 ```
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ac5f42a6-24d5-4106-b417-ce0087134294" />
+
+## Kitty
+
+Utilizo o Kitty como terminal principal.
+
+As configurações personalizadas incluem:
+
+- tema integrado ao ambiente Caelestia;
+- transparência;
+- ajustes visuais;
+- configurações de fonte;
+- personalizações de aparência.
+
+As configurações podem ser encontradas em:
+
+```bash
+dotfiles/.config/kitty
+```
+<img width="1832" height="1171" alt="image" src="https://github.com/user-attachments/assets/5d6f9afd-5f2a-43c1-9532-30e9d0e86764" />
+
+Kitty
+├── Tema gerado automaticamente
+├── Integração com a paleta do Caelestia
+└── Atualização via script
