@@ -26,3 +26,12 @@ flatpak update
 ## Desktop
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c5d58ba1-38a5-4ab3-9a71-06b908b0a43c" />
+
+## Zen Browser
+
+Utilizo o Zen Browser como navegador principal.
+
+Mantenho backups locais das configurações usando o script:
+
+```bash
+backup-zen
